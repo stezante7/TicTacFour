@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>small-square-empty-black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pawns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="small-square-empty-black" stroke="#3A3633" stroke-width="2">
+            <rect id="Rectangle" fill="#59534E" x="21" y="21" width="68" height="68" rx="8"></rect>
+            <rect id="Rectangle" fill="#CDC3B9" x="39.375" y="39.375" width="31.25" height="31.25" rx="8"></rect>
+        </g>
+    </g>
+</svg>
